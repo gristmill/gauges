@@ -5,11 +5,11 @@ require "gauge/version"
 Gem::Specification.new do |s|
   s.name        = "gauge"
   s.version     = Gauge::VERSION
-  s.authors     = ["Sean Behan"]
+  s.authors     = ["Sean Behan", "Tristan O'neil"]
   s.email       = ["bseanvt@gmail.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "https://github.com/AgilionApps/gauges"
+  s.summary     = %q{Pretty gauges for your Rails app.}
+  s.description = %q{Use this Gem to draw nice looking gauges.}
 
   s.rubyforge_project = "gauge"
 
