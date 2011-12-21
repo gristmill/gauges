@@ -29,5 +29,3 @@ To draw a gauge call the gauge erb tag with div, percent, fill and highlight pro
 <%= gauge div: "my-div", percent: "50", fill: "red", highlight: "blue" %>
 
 ```
-
-_*Misspelled on purpose because "Gauges" is already taken!_
